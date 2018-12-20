@@ -1,0 +1,33 @@
+{
+  "name": "core.io-registry-mdns",
+  "version": "0.0.0",
+  "description": "core.io module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goliatone/core.io Registry MDNS.git"
+  },
+  "keywords": [
+    "core.io"
+  ],
+  "author": "goliatone <hello@goliatone.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goliatone/core.io Registry MDNS/issues"
+  },
+  "homepage": "https://github.com/goliatone/core.io Registry MDNS#readme",
+  "devDependencies": {
+    "bogota": "^2.0.4",
+    "proxyquire": "^1.7.11",
+    "sinon": "^1.17.7",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.3",
+    "watch": "^1.0.2"
+  },
+  "dependencies": {
+    "gextend": "^0.3.0"
+  }
+}
