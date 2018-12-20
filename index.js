@@ -8,3 +8,6 @@
  * a custom initializer.
  */
 module.exports.init = require('./lib/init');
+
+module.exports.Client = require('./lib/client');
+module.exports.Browser = require('./lib/browser');
